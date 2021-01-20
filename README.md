@@ -12,3 +12,7 @@ A UE4 couch competitve aracde game were the aim is to knock the other team of th
 Project created with:
 - Unreal Engine version 4.25
 
+## Setup
+- Download repo
+- Pull Git LFS assets
+- Download install Unreal Engine 4.25
